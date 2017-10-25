@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DE JSON Test</string>
+    <string name="developer_name">Cameron White</string>
+    <string name="empty_row_description">Empty Row Description</string>
+</resources>
